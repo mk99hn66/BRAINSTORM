@@ -1,0 +1,44 @@
+Note - not trying to go too deep into hardware modding cause ya boi 9c be broke
+DISCLAIMER - ALL IDEAS ARE MEANT FOR THE GOOD GUYS - bc u better be a red teamer if u fell in love with my mouse jiggler =)
+*started with 20 ideas from the oh so courteous 9c*
+Projects that can be done with Godot framework
+9c 1) - Game that player can use to access a linux terminal that runs from an embedded hypervisor
+9c 2) - Malware that is diguised as a device driver
+9c 3) - mouse jiggler ~ obfuscated in perl or c# - disguise as Windows Service and either jiggle off edge of screen or change cursor... 
+	humanoid movement & all means necessary to avoid detection
+	write protect, encrypt code(but still make sure it runs), and turn into executable file... then sell download online for $1 ETH or BTC bc they be the most common cryptos and i want mani
+9c 4) - cross-platform mobile AuGmeNted ReALitY aPp that les people virtually tag an area... 
+	graffiti style, boring plaintext style, 3d object, 2d object, any style u name it
+9c 5) - Botnet management GUI and Software package that is idiot friendly and makes professionals grieve the time they spent learning shit
+9c 6) - Raytracer. cause i saw a guy on tiktok try to make one in javascript and his professor made him switch to a dif programming language... 
+	but it still seemed like an interesting concept that u could use in video games whenever 
+9c 7) - Game in which a local AI is combined with the 3d digital avatar of a mad scientist and can never leave his lab due to programming of the game itself... 
+	the player's objective is to use prompt engineering so the AI can tweak its own code and 'break free' 
+	(logs are kept of AI versions so users can grab them and use as they please, but ultimately the AI is coded so that a split second before breaking free, 
+	the code that lets it run autonomously is deleted & user gets a yes or no button on whether they'd like to free the AI into a pre-assembled container (using docker or something) 
+	AS WELL AS give it a task to complete via coding)
+9c 8) - Randomizer function from scratch, make unbreakable and bulletproof from other code. [could be useful for casino type games]
+9c 9) - Use local and non local AI to build a new programming language optimized for obfuscated game development code. 
+	(even if somebody rips the code from the game they'll have to hunch over for hours reading it and looking things up to understand each section's purpose... 
+	then the next update to the game can obfuscate the code even more and make the reverse-engineering process even longer
+9c 10) - Undetectable Screen Recorder from terminal app - create a screen recorder that can be used to rip streaming services since operating system cannot detect (netflix, hbomax, onlyfans, etc.)
+9c 11) - Virtual GUI Version of ur kerbel space program hardware controller. u might end up cursing yourself for spending so much on hardware, but hey - i like software bc u don't need to spend money to build it :)
+9c 12) - Voice Accent/Tone/Everything Editor with GUI. idk i just think itd be funny to hear Biden's voice speaking with a Russian accent ya know ya know... 
+	like maybe my boi went to the gulag who knows
+9c 13) - Worm Quarantiner: Bc Anti-Malware software is about as legally clean as u can get and it has potential to make me the opposite of broke
+9c 14) - Idiot friendly database management software that comes with a gui. the purpose of this is to put everyone who thrives by using database languages out of the job...
+	 unless they be pentesters who need to make custom shit
+9c 15) - Website that gives people zipbombs, each zip tampered w perfectly to be untracable (remove the hash and whatever else bc i dont want to be involved in a investigation irrelevant to my life), 
+	and perfect for making decoy flags for any purpose. 
+9c 16) - Program that does projectile trajectory. bc in video games a lot of stuff goes bang bang pew pew boom boom.
+9c 17) - Software that serves the purpose of anti-forensically wiping a drive and then optionally filling it back up with bloatware (just to flip the 1s and 0s even more)
+9c 18) - topdown 'evade the object' game that uses AI to get better in each level. The AI progressively gets better at catching the player and demeaning them. The player's goal 
+	is to evade the trash talking not yet even thought of object. Our Goal would be to make the player want to keep playing the game bc the ai is funny from rounds 1-50ish 
+	AND AFTERWARDS WE WILL MAKE THEM QUIT bc the AI is straight up brutal. |||||| P.S. our second goal is to make spectators want to bully the player with the AI.
+9c 19) - A program that routes a windows network conenction thru tor, encrypts ip address and displays fake ones, encrypts mac and displays fake one, 
+	and basically makes average windows user almost anonymous... bc why not help those in censored countries am i right or am i right (also bc ur dingleberry ass doesn't use a vpn)
+9c 20) - The Hardware Project... but we still writing software. This one would be a USB repurposer. We pick a brand (lets say sandisk), 
+	reverse-engineer/code to strip the usb of all proprietary firmware. then turn our methods into a program. then add to the program so that a windows pc won't detect the USB being put in,
+	 and it run's keyboard strokes just like a bad USB or rubber ducky
+
+Have fun picking one or getting inspired :)
